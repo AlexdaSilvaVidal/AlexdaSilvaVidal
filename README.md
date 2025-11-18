@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
-![Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,vscode,github,figma,mysql)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,python,vscode,github,figma,mysql)
 
 ---
 
