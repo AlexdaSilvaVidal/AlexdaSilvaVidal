@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 ---
 
 ## 🔗 Conecte-se comigo
-- 💼 **LinkedIn:** https://www.linkedin.com/in/alexssandro-vidal
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alexssandro-vidal-0959b8224
 - ✉️ **E-mail:** alexssandrodasilvavidal@gmail.com
 ---
 
