@@ -23,7 +23,7 @@ Formado em Análise e Desenvolvimento de Sistemas, busco sempre me manter no cam
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats-alpha-swart-46.vercel.app/api?username=AlexdaSilvaVidal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexdaSilvaVidal&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-alpha-swart-46.vercel.app/api/top-langs/?username=AlexdaSilvaVidal&layout=compact&theme=tokyonight)
 
 ---
 
