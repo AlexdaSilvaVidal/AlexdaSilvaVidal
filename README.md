@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou **Alexssandro Vidal**
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e experimentos nas áreas de desenvolvimento, automação, sistemas inteligentes, design de interfaces e muito mais.
+Formado em Análise e Desenvolvimento de Sistemas, busco sempre me manter no caminho da busca por mais experiência e conhecimento, principalmente nas áreas que mais chamam a minha atenção, que são, Banco de dados e Cibesegurança.
 
 ---
 
