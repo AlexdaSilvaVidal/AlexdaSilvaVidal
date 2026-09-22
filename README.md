@@ -17,7 +17,7 @@ Formado em Análise e Desenvolvimento de Sistemas, busco sempre me manter no cam
 ---
 
 ## 🛠️ Tecnologias e ferramentas
-![Skills](https://skillicons.dev/icons?i=js,react,html,css,python,vscode,github,figma,mysql,php)
+![Skills](https://skillicons.dev/icons?i=js,c,html,css,python,vscode,github,figma,mysql,php)
 
 ---
 
